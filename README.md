@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Panchkula</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishkh&label=Profile%20views&color=0e75b6&style=flat" alt="kavishkh" /> </p>
-- 🔭 I’m currently Student of chitkara University **kavish2118.be23@chitkara.edu.in**
+- 🔭 I’m currently Student of chitkara University 
+      kavish2118.be23@chitkara.edu.in
 
 - 🌱 I’m currently learning **Cloud Computing , DSA , Backend**
 
